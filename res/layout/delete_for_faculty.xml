@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Delete Student"
+            android:id="@+id/btnStudentDelete"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="192dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"/>
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Delete Book"
+            android:id="@+id/btnBookDelete"
+            android:layout_marginTop="55dp"
+            android:layout_below="@+id/btnStudentDelete"
+            android:layout_alignLeft="@+id/btnStudentDelete"/>
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/AppData/Local/Android/sdk/extras/android/support/v7/appcompat/appcompat.iml" filepath="$USER_HOME$/AppData/Local/Android/sdk/extras/android/support/v7/appcompat/appcompat.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Android/sdk/extras/android/support/v7/cardview/cardview.iml" filepath="$USER_HOME$/AppData/Local/Android/sdk/extras/android/support/v7/cardview/cardview.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Android/sdk/extras/android/support/design/design.iml" filepath="$USER_HOME$/AppData/Local/Android/sdk/extras/android/support/design/design.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" filepath="$USER_HOME$/AppData/Local/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/sdp-master/sdp-android/src/main/main.iml" filepath="$PROJECT_DIR$/libs/sdp-master/sdp-android/src/main/main.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Android/sdk/extras/android/support/v7/recyclerview/recyclerview.iml" filepath="$USER_HOME$/AppData/Local/Android/sdk/extras/android/support/v7/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student_portal.iml" filepath="$PROJECT_DIR$/student_portal.iml" />
+    </modules>
+  </component>
+</project>
